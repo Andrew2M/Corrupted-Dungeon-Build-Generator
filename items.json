@@ -1,0 +1,1280 @@
+{
+  "weapons": [
+    {
+      "name": "Battleaxe",
+      "image": "MAIN_AXE",
+      "type": "1H",
+      "category": "axe"
+    },
+    {
+      "name": "Greataxe",
+      "image": "2H_AXE",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Halberd",
+      "image": "2H_HALBERD",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Carioncaller",
+      "image": "2H_HALBERD_MORGANA",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Infernal Scythe",
+      "image": "2H_SCYTHE_HELL",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Bear Paws",
+      "image": "2H_DUALAXE_KEEPER",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Realmbreaker",
+      "image": "2H_AXE_AVALON",
+      "type": "2H",
+      "category": "axe"
+    },
+    {
+      "name": "Bow",
+      "image": "2H_BOW",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Longbow",
+      "image": "2H_LONGBOW",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Warbow",
+      "image": "2H_WARBOW",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Whispering Bow",
+      "image": "2H_LONGBOW_UNDEAD",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Wailing Bow",
+      "image": "2H_BOW_HELL",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Bow of Badon",
+      "image": "2H_BOW_KEEPER",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Mistpiercer",
+      "image": "2H_BOW_AVALON",
+      "type": "2H",
+      "category": "bow"
+    },
+    {
+      "name": "Crossbow",
+      "image": "2H_CROSSBOW",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Heavy Crossbow",
+      "image": "2H_CROSSBOWLARGE",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Light Crossbow",
+      "image": "MAIN_1HCROSSBOW",
+      "type": "1H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Weeping Repeater",
+      "image": "2H_REPEATINGCROSSBOW_UNDEAD",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Boltcasters",
+      "image": "2H_DUALCROSSBOW_HELL",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Siegebow",
+      "image": "2H_CROSSBOWLARGE_MORGANA",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Energy Shaper",
+      "image": "2H_CROSSBOW_CANNON_AVALON",
+      "type": "2H",
+      "category": "crossbow"
+    },
+    {
+      "name": "Arcane Staff",
+      "image": "MAIN_ARCANESTAFF",
+      "type": "1H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Great Arcane Staff",
+      "image": "2H_ARCANESTAFF",
+      "type": "2H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Enigmatic Staff",
+      "image": "2H_ENIGMATICSTAFF",
+      "type": "2H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Witchwork Staff",
+      "image": "MAIN_ARCANESTAFF_UNDEAD",
+      "type": "1H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Occult Staff",
+      "image": "2H_ARCANESTAFF_HELL",
+      "type": "2H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Malevolent Locus",
+      "image": "2H_ENIGMATICORB_MORGANA",
+      "type": "2H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Evensong",
+      "image": "2H_ARCANE_RINGPAIR_AVALON",
+      "type": "2H",
+      "category": "arcane staff"
+    },
+    {
+      "name": "Fire Staff",
+      "image": "MAIN_FIRESTAFF",
+      "type": "1H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Great Fire Staff",
+      "image": "2H_FIRESTAFF",
+      "type": "2H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Infernal Staff",
+      "image": "2H_INFERNOSTAFF",
+      "type": "2H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Wildfire Staff",
+      "image": "MAIN_FIRESTAFF_KEEPER",
+      "type": "1H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Brimstone Staff",
+      "image": "2H_FIRESTAFF_HELL",
+      "type": "2H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Blazing Staff",
+      "image": "2H_INFERNOSTAFF_MORGANA",
+      "type": "2H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Dawnsong",
+      "image": "2H_FIRE_RINGPAIR_AVALON",
+      "type": "2H",
+      "category": "fire staff"
+    },
+    {
+      "name": "Frost Staff",
+      "image": "MAIN_FROSTSTAFF",
+      "type": "1H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Great Frost Staff",
+      "image": "2H_FROSTSTAFF",
+      "type": "2H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Glacial Staff",
+      "image": "2H_GLACIALSTAFF",
+      "type": "2H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Hoarfrost Staff",
+      "image": "MAIN_FROSTSTAFF_KEEPER",
+      "type": "1H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Icicle Staff",
+      "image": "2H_ICEGAUNTLETS_HELL",
+      "type": "2H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Permafrost Prism",
+      "image": "2H_ICECRYSTAL_UNDEAD",
+      "type": "2H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Chillhowl",
+      "image": "MAIN_FROSTSTAFF_AVALON",
+      "type": "1H",
+      "category": "frost staff"
+    },
+    {
+      "name": "Holy Staff",
+      "image": "MAIN_HOLYSTAFF",
+      "type": "1H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Great Holy Staff",
+      "image": "2H_HOLYSTAFF",
+      "type": "2H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Divine Staff",
+      "image": "2H_DIVINESTAFF",
+      "type": "2H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Lifetouch Staff",
+      "image": "MAIN_HOLYSTAFF_MORGANA",
+      "type": "1H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Fallen Staff",
+      "image": "2H_HOLYSTAFF_HELL",
+      "type": "2H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Redemption Staff",
+      "image": "2H_HOLYSTAFF_UNDEAD",
+      "type": "2H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Hallowfall",
+      "image": "MAIN_HOLYSTAFF_AVALON",
+      "type": "1H",
+      "category": "holy staff"
+    },
+    {
+      "name": "Hammer",
+      "image": "MAIN_HAMMER",
+      "type": "1H",
+      "category": "hammer"
+    },
+    {
+      "name": "Great Hammer",
+      "image": "2H_HAMMER",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Polehammer",
+      "image": "2H_POLEHAMMER",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Tombhammer",
+      "image": "2H_HAMMER_UNDEAD",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Forge Hammers",
+      "image": "2H_DUALHAMMER_HELL",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Grovekeeper",
+      "image": "2H_RAM_KEEPER",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Hand of Justice",
+      "image": "2H_HAMMER_AVALON",
+      "type": "2H",
+      "category": "hammer"
+    },
+    {
+      "name": "Dagger",
+      "image": "MAIN_DAGGER",
+      "type": "1H",
+      "category": "dagger"
+    },
+    {
+      "name": "Dagger Pair",
+      "image": "2H_DAGGERPAIR",
+      "type": "2H",
+      "category": "dagger"
+    },
+    {
+      "name": "Claws",
+      "image": "2H_CLAWPAIR",
+      "type": "2H",
+      "category": "dagger"
+    },
+    {
+      "name": "Bloodletter",
+      "image": "MAIN_RAPIER_MORGANA",
+      "type": "1H",
+      "category": "dagger"
+    },
+    {
+      "name": "Demonfang",
+      "image": "MAIN_DAGGER_HELL",
+      "type": "1H",
+      "category": "dagger"
+    },
+    {
+      "name": "Deathgivers",
+      "image": "2H_DUALSICKLE_UNDEAD",
+      "type": "2H",
+      "category": "dagger"
+    },
+    {
+      "name": "Bridled Fury",
+      "image": "2H_DAGGER_KATAR_AVALON",
+      "type": "2H",
+      "category": "dagger"
+    },
+    {
+      "name": "Mace",
+      "image": "MAIN_MACE",
+      "type": "1H",
+      "category": "mace"
+    },
+    {
+      "name": "Heavy Mace",
+      "image": "2H_MACE",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Morning Star",
+      "image": "2H_FLAIL",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Bedrock Mace",
+      "image": "MAIN_ROCKMACE_KEEPER",
+      "type": "1H",
+      "category": "mace"
+    },
+    {
+      "name": "Incubus Mace",
+      "image": "MAIN_MACE_HELL",
+      "type": "1H",
+      "category": "mace"
+    },
+    {
+      "name": "Camlann Mace",
+      "image": "2H_MACE_MORGANA",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Oathkeepers",
+      "image": "2H_DUALMACE_AVALON",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Quarterstaff",
+      "image": "2H_QUARTERSTAFF",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Iron-clad Staff",
+      "image": "2H_IRONCLADEDSTAFF",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Double Bladed Staff",
+      "image": "2H_DOUBLEBLADEDSTAFF",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Black Monk Stave",
+      "image": "2H_COMBATSTAFF_MORGANA",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Soulscythe",
+      "image": "2H_TWINSCYTHE_HELL",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Staff of Balance",
+      "image": "2H_ROCKSTAFF_KEEPER",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Grailseeker",
+      "image": "2H_QUARTERSTAFF_AVALON",
+      "type": "2H",
+      "category": "mace"
+    },
+    {
+      "name": "Cursed Staff",
+      "image": "MAIN_CURSEDSTAFF",
+      "type": "1H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Great Cursed Staff",
+      "image": "2H_CURSEDSTAFF",
+      "type": "2H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Demonic Staff",
+      "image": "2H_DEMONICSTAFF",
+      "type": "2H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Lifecurse Staff",
+      "image": "MAIN_CURSEDSTAFF_UNDEAD",
+      "type": "1H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Cursed Skull",
+      "image": "2H_SKULLORB_HELL",
+      "type": "2H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Damnation Staff",
+      "image": "2H_CURSEDSTAFF_MORGANA",
+      "type": "2H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Shadowcaller",
+      "image": "MAIN_CURSEDSTAFF_AVALON",
+      "type": "1H",
+      "category": "cursed staff"
+    },
+    {
+      "name": "Nature Staff",
+      "image": "MAIN_NATURESTAFF",
+      "type": "1H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Great Nature Staff",
+      "image": "2H_NATURESTAFF",
+      "type": "2H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Wild Staff",
+      "image": "2H_WILDSTAFF",
+      "type": "2H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Druidic Staff",
+      "image": "MAIN_NATURESTAFF_KEEPER",
+      "type": "1H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Blight Staff",
+      "image": "2H_NATURESTAFF_HELL",
+      "type": "2H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Rampant Staff",
+      "image": "2H_NATURESTAFF_KEEPER",
+      "type": "2H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Ironroot Staff",
+      "image": "MAIN_NATURESTAFF_AVALON",
+      "type": "1H",
+      "category": "nature staff"
+    },
+    {
+      "name": "Broadsword",
+      "image": "MAIN_SWORD",
+      "type": "1H",
+      "category": "sword"
+    },
+    {
+      "name": "Claymore",
+      "image": "2H_CLAYMORE",
+      "type": "2H",
+      "category": "sword"
+    },
+    {
+      "name": "Dual Swords",
+      "image": "2H_DUALSWORD",
+      "type": "2H",
+      "category": "sword"
+    },
+    {
+      "name": "Clarent Blade",
+      "image": "MAIN_SCIMITAR_MORGANA",
+      "type": "1H",
+      "category": "sword"
+    },
+    {
+      "name": "Carving Sword",
+      "image": "2H_CLEAVER_HELL",
+      "type": "2H",
+      "category": "sword"
+    },
+    {
+      "name": "Galatine Pair",
+      "image": "2H_DUALSCIMITAR_UNDEAD",
+      "type": "2H",
+      "category": "sword"
+    },
+    {
+      "name": "Kingmaker",
+      "image": "2H_CLAYMORE_AVALON",
+      "type": "2H",
+      "category": "sword"
+    },
+    {
+      "name": "Brawler Gloves",
+      "image": "2H_KNUCKLES_SET1",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Battle Bracers",
+      "image": "2H_KNUCKLES_SET2",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Spiked Gauntlets",
+      "image": "2H_KNUCKLES_SET3",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Ursine Maulers",
+      "image": "2H_KNUCKLES_KEEPER",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Hellfire Hands",
+      "image": "2H_KNUCKLES_HELL",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Ravenstrike Cestus",
+      "image": "2H_KNUCKLES_MORGANA",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Fists of Avalon",
+      "image": "2H_KNUCKLES_AVALON",
+      "type": "2H",
+      "category": "war gloves"
+    },
+    {
+      "name": "Spear",
+      "image": "MAIN_SPEAR",
+      "type": "1H",
+      "category": "spear"
+    },
+    {
+      "name": "Pike",
+      "image": "2H_SPEAR",
+      "type": "2H",
+      "category": "spear"
+    },
+    {
+      "name": "Glaive",
+      "image": "2H_GLAIVE",
+      "type": "2H",
+      "category": "spear"
+    },
+    {
+      "name": "Heron Spear",
+      "image": "MAIN_SPEAR_KEEPER",
+      "type": "1H",
+      "category": "spear"
+    },
+    {
+      "name": "Spirithunter",
+      "image": "2H_HARPOON_HELL",
+      "type": "2H",
+      "category": "spear"
+    },
+    {
+      "name": "Trinity Spear",
+      "image": "2H_TRIDENT_UNDEAD",
+      "type": "2H",
+      "category": "spear"
+    },
+    {
+      "name": "Daybreaker",
+      "image": "MAIN_SPEAR_LANCE_AVALON",
+      "type": "1H",
+      "category": "spear"
+    }
+  ],
+  "offHand": [
+    {
+      "name": "Shield",
+      "image": "SHIELD",
+      "type": "1H",
+      "category": "shield"
+    },
+    {
+      "name": "Caitiff Shield",
+      "image": "SHIELD_HELL",
+      "type": "1H",
+      "category": "shield"
+    },
+    {
+      "name": "Facebreaker",
+      "image": "SPIKEDSHIELD_MORGANA",
+      "type": "1H",
+      "category": "shield"
+    },
+    {
+      "name": "Sarcophagus",
+      "image": "TOWERSHIELD_UNDEAD",
+      "type": "2H",
+      "category": "shield"
+    },
+    {
+      "name": "Astral Aegis",
+      "image": "SHIELD_AVALON",
+      "type": "1H",
+      "category": "shield"
+    },
+    {
+      "name": "Torch",
+      "image": "TORCH",
+      "type": "1H",
+      "category": "torch"
+    },
+    {
+      "name": "Mistcaller",
+      "image": "HORN_KEEPER",
+      "type": "1H",
+      "category": "torch"
+    },
+    {
+      "name": "Cryptcandle",
+      "image": "LAMP_UNDEAD",
+      "type": "1H",
+      "category": "torch"
+    },
+    {
+      "name": "Leering Cane",
+      "image": "JESTERCANE_HELL",
+      "type": "1H",
+      "category": "torch"
+    },
+    {
+      "name": "Sacred Scepter",
+      "image": "TALISMAN_AVALON",
+      "type": "1H",
+      "category": "torch"
+    },
+    {
+      "name": "Tome of Spells",
+      "image": "BOOK",
+      "type": "1H",
+      "category": "tome"
+    },
+    {
+      "name": "Eye of Secrets",
+      "image": "ORB_MORGANA",
+      "type": "1H",
+      "category": "tome"
+    },
+    {
+      "name": "Taproot",
+      "image": "TOTEM_KEEPER",
+      "type": "1H",
+      "category": "tome"
+    },
+    {
+      "name": "Muisak",
+      "image": "DEMONSKULL_HELL",
+      "type": "1H",
+      "category": "tome"
+    },
+    {
+      "name": "Celestial Censer",
+      "image": "CENSER_AVALON",
+      "type": "1H",
+      "category": "tome"
+    }
+  ],
+  "helmets": [
+    {
+      "name": "Mercenary Hood",
+      "image": "LEATHER_SET1",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Hunter Hood",
+      "image": "LEATHER_SET2",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Assassin Hood",
+      "image": "LEATHER_SET3",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Hellion Hood",
+      "image": "LEATHER_HELL",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Specter Hood",
+      "image": "LEATHER_UNDEAD",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Stalker Hood",
+      "image": "LEATHER_MORGANA",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Royal Hood",
+      "image": "LEATHER_ROYAL",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Hood of Tenacity",
+      "image": "LEATHER_AVALON",
+      "type": "helm",
+      "category": "leather hood"
+    },
+    {
+      "name": "Scholar Cowl",
+      "image": "CLOTH_SET1",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Cleric Cowl",
+      "image": "CLOTH_SET2",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Mage Cowl",
+      "image": "CLOTH_SET3",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Royal Cowl",
+      "image": "CLOTH_ROYAL",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Fiend Cowl",
+      "image": "CLOTH_HELL",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Cultist Cowl",
+      "image": "CLOTH_MORGANA",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Druid Cowl",
+      "image": "CLOTH_KEEPER",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Cowl of Purity",
+      "image": "CLOTH_AVALON",
+      "type": "helm",
+      "category": "cloth cowl"
+    },
+    {
+      "name": "Soldier Helmet",
+      "image": "PLATE_SET1",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Knight Helmet",
+      "image": "PLATE_SET2",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Guardian Helmet",
+      "image": "PLATE_SET3",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Royal Helmet",
+      "image": "PLATE_ROYAL",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Demon Helmet",
+      "image": "PLATE_HELL",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Graveguard Helmet",
+      "image": "PLATE_UNDEAD",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Judicator Helmet",
+      "image": "PLATE_KEEPER",
+      "type": "helm",
+      "category": "plate helmet"
+    },
+    {
+      "name": "Helmet of Valor",
+      "image": "PLATE_AVALON",
+      "type": "helm",
+      "category": "plate helmet"
+    }
+  ],
+  "armors": [
+    {
+      "name": "Mercenary Jacket",
+      "image": "LEATHER_SET1",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Hunter Jacket",
+      "image": "LEATHER_SET2",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Assassin Jacket",
+      "image": "LEATHER_SET3",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Hellion Jacket",
+      "image": "LEATHER_HELL",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Specter Jacket",
+      "image": "LEATHER_UNDEAD",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Stalker Jacket",
+      "image": "LEATHER_MORGANA",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Royal Jacket",
+      "image": "LEATHER_ROYAL",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Jacket of Tenacity",
+      "image": "LEATHER_AVALON",
+      "type": "armor",
+      "category": "leather hood"
+    },
+    {
+      "name": "Scholar Robe",
+      "image": "CLOTH_SET1",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Cleric Robe",
+      "image": "CLOTH_SET2",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Mage Robe",
+      "image": "CLOTH_SET3",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Royal Robe",
+      "image": "CLOTH_ROYAL",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Fiend Robe",
+      "image": "CLOTH_HELL",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Cultist Robe",
+      "image": "CLOTH_MORGANA",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Druid Robe",
+      "image": "CLOTH_KEEPER",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Robe of Purity",
+      "image": "CLOTH_AVALON",
+      "type": "armor",
+      "category": "cloth robe"
+    },
+    {
+      "name": "Soldier Armor",
+      "image": "PLATE_SET1",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Knight Armor",
+      "image": "PLATE_SET2",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Guardian Armor",
+      "image": "PLATE_SET1",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Royal Armor",
+      "image": "PLATE_ROYAL",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Demon Armor",
+      "image": "PLATE_HELL",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Graveguard Armor",
+      "image": "PLATE_UNDEAD",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Judicator Armor",
+      "image": "PLATE_KEEPER",
+      "type": "armor",
+      "category": "plate armor"
+    },
+    {
+      "name": "Armor of Valor",
+      "image": "PLATE_AVALON",
+      "type": "armor",
+      "category": "plate armor"
+    }
+  ],
+  "shoes": [
+    {
+      "name": "Mercenary Shoes",
+      "image": "LEATHER_SET1",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Hunter Shoes",
+      "image": "LEATHER_SET2",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Assassin Shoes",
+      "image": "LEATHER_SET3",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Hellion Shoes",
+      "image": "LEATHER_HELL",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Specter Shoes",
+      "image": "LEATHER_UNDEAD",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Stalker Shoes",
+      "image": "LEATHER_MORGANA",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Royal Shoes",
+      "image": "LEATHER_ROYAL",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Shoes of Tenacity",
+      "image": "LEATHER_AVALON",
+      "type": "shoes",
+      "category": "leather shoes"
+    },
+    {
+      "name": "Scholar Sandals",
+      "image": "CLOTH_SET1",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Cleric Sandals",
+      "image": "CLOTH_SET2",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Mage Sandals",
+      "image": "CLOTH_SET3",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Royal Sandals",
+      "image": "CLOTH_ROYAL",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Fiend Sandals",
+      "image": "CLOTH_HELL",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Cultist Sandals",
+      "image": "CLOTH_MORGANA",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Druid Sandals",
+      "image": "CLOTH_KEEPER",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Sandals of Purity",
+      "image": "CLOTH_AVALON",
+      "type": "shoes",
+      "category": "cloth sandals"
+    },
+    {
+      "name": "Soldier Boots",
+      "image": "PLATE_SET1",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Knight Boots",
+      "image": "PLATE_SET2",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Guardian Boots",
+      "image": "PLATE_SET1",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Royal Boots",
+      "image": "PLATE_ROYAL",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Demon Boots",
+      "image": "PLATE_HELL",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Graveguard Boots",
+      "image": "PLATE_UNDEAD",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Judicator Boots",
+      "image": "PLATE_KEEPER",
+      "type": "shoes",
+      "category": "plate boots"
+    },
+    {
+      "name": "Boots of Valor",
+      "image": "PLATE_AVALON",
+      "type": "shoes",
+      "category": "plate boots"
+    }
+  ],
+  "capes": [
+    {
+      "name": "Cape",
+      "image": "CAPE",
+      "type": "cape",
+      "category": "cape"
+    },
+    {
+      "name": "Lymhurst Cape",
+      "image": "CAPEITEM_FW_LYMHURST",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Bridgewatch Cape",
+      "image": "CAPEITEM_FW_BRIDGEWATCH",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Caerleon Cape",
+      "image": "CAPEITEM_FW_CAERLEON",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Martlock Cape",
+      "image": "CAPEITEM_FW_MARTLOCK",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Thetford Cape",
+      "image": "CAPEITEM_FW_THETFORD",
+      "type": "Accessory",
+      "category": "faction cape"
+    },
+    {
+      "name": "Fort Sterling Cape",
+      "image": "CAPEITEM_FW_FORTSTERLING",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Demon Cape",
+      "image": "CAPEITEM_DEMON",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Keeper Cape",
+      "image": "CAPEITEM_KEEPER",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Morgana Cape",
+      "image": "CAPEITEM_MORGANA",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Undead Cape",
+      "image": "CAPEITEM_UNDEAD",
+      "type": "cape",
+      "category": "faction cape"
+    },
+    {
+      "name": "Heretic Cape",
+      "image": "CAPEITEM_HERETIC",
+      "type": "cape",
+      "category": "faction cape"
+    }
+  ]
+}
